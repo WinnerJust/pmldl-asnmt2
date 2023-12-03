@@ -1,7 +1,9 @@
 # Practical Machine Learning and Deep Learning - Assignment 2 - Movie Recommender System
 
 Name: Pavel Roganin
+
 Group: B21-AI
+
 Email: p.roganin@innopolis.university
 
 ## Task description
