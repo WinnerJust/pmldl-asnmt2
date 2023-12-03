@@ -12,7 +12,7 @@ Email: p.roganin@innopolis.university
 python benchmark/evaluate.py
 ```
 
-The model training and visualizations are in the notebook 2.0
+The model training and visualizations are in the notebook 2.0.
 
 ## Task description
 
