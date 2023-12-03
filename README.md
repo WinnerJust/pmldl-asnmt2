@@ -8,7 +8,7 @@ Email: p.roganin@innopolis.university
 
 ## How to run benchmark
 
-python benchmark/evaluate.py
+`python benchmark/evaluate.py`
 
 ## Task description
 
