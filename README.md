@@ -1,5 +1,9 @@
 # Practical Machine Learning and Deep Learning - Assignment 2 - Movie Recommender System
 
+Name: Pavel Roganin
+Group: B21-AI
+Email: p.roganin@innopolis.university
+
 ## Task description
 
 A recommender system is a type of information filtering system that suggests items or content to users based on their interests, preferences, or past behavior. These systems are commonly used in various domains, such as e-commerce, entertainment, social media, and online content platforms.
