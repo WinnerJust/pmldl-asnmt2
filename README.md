@@ -9,7 +9,8 @@ Email: p.roganin@innopolis.university
 ## How to run
 
 ```
-python benchmark/evaluate.py
+cd benchmark
+python evaluate.py
 ```
 
 The model training and visualizations are in the notebook 2.0.
