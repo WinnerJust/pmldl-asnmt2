@@ -1,0 +1,8 @@
+Lab 11 code used in the assignment:
+https://colab.research.google.com/drive/1VQTBxJuty7aLMepjEYE-d7E9kjo51CA1?usp=sharing#scrollTo=nT5LTkI8Ml1c
+
+Useful reading:
+https://developers.google.com/machine-learning/recommendation/collaborative/basics
+https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748
+https://towardsdatascience.com/metrics-of-recommender-systems-cde64042127a
+https://github.com/rposhala/Recommender-System-on-MovieLens-dataset
